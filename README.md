@@ -1,7 +1,3 @@
-Here's a short `README.md` that represents the `README.BASH.md` and the `command.png` image:
-
----
-
 # GitHub Setup Guide for Windows
 
 This repository contains a guide to help you set up version control using GitHub on a Windows system.
