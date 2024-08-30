@@ -4,7 +4,7 @@ This repository contains a guide to help you set up version control using GitHub
 
 ## Contents
 
-- **[README.BASH.md](README.BASH.md):** Step-by-step instructions for setting up Git, GitHub, and SSH keys on Windows.
+- **[README.SSH.md](README.SSH.md):** Step-by-step instructions for setting up Git, GitHub, and SSH keys on Windows.
 - **command.png:** Visual reference for key Git Bash commands.
 
 ## Quick Start
